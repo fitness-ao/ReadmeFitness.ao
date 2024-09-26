@@ -68,8 +68,8 @@ Dependabot: Para manter as dependências do projeto atualizadas automaticamente.
 
 Exemplo de Organização Visual:
 
-plaintext
-Copiar código
+```javascript
+
 fitness-ao
 ├── fitness-ao-web
 ├── fitness-ao-mobile
@@ -80,6 +80,7 @@ fitness-ao
 ├── fitness-ao-devops
 └── fitness-ao-docs
 
+```
 
 ### Conclusão:
 
