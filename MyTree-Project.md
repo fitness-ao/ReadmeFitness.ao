@@ -8,12 +8,13 @@ Para evitar confusões, é ideal separar os diferentes componentes do projeto em
 
 Sugestão de estrutura de repositórios:
 
-fitness-ao-web: Para o desenvolvimento da versão web do projeto.
-fitness-ao-mobile: Para a versão mobile (pode ser separado por plataforma, como fitness-ao-android e fitness-ao-ios, se os desenvolvimentos forem independentes).
-fitness-ao-api: Para a API backend que servirá de ponte entre as plataformas (web e mobile) e a base de dados.
-fitness-ao-ml: Para os algoritmos de machine learning e inteligência artificial responsáveis pelas recomendações de treinos, dietas e métricas.
-fitness-ao-devops: Repositório dedicado a automações, scripts de CI/CD, infraestrutura como código (Docker, Kubernetes), etc.
-fitness-ao-docs: Para documentação (técnica, API, uso) do projeto.
+> fitness-ao-web: Para o desenvolvimento da versão web do projeto.
+> fitness-ao-mobile: Para a versão mobile (pode ser separado por plataforma, como fitness-ao-android e fitness-ao-ios, se os desenvolvimentos forem independentes).
+> fitness-ao-api: Para a API backend que servirá de ponte entre as plataformas (web e mobile) e a base de dados.
+> fitness-ao-ml: Para os algoritmos de machine learning e inteligência artificial responsáveis pelas recomendações de treinos, dietas e métricas.
+> fitness-ao-devops: Repositório dedicado a automações, scripts de CI/CD, infraestrutura como código (Docker, Kubernetes), etc.
+> fitness-ao-docs: Para documentação (técnica, API, uso) do projeto.
+
 3. Organizar Branches dentro de cada Repositório:
 Utilize uma estratégia clara de branching, como GitFlow ou GitHub Flow, para gerenciar o desenvolvimento de features, correções e novas versões.
 
